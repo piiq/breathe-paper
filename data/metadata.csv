@@ -1,0 +1,1372 @@
+index,sex,age_yrs,record_point,pathology,pathology_state,breath_record_type,breath_record_source,record_quality
+0,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Average
+1,M,47,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Phone,Average
+2,F,14,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Average
+3,F,8,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Average
+4,M,37,Second intercostal space ,Healthy,Exacerbation or/and Uncontrolled,Calm,Phone,Good
+5,M,47,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Phone,Average
+6,M,12,Chest from behind,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Average
+7,M,20,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Good
+8,F,9,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,PC without special software,Average
+9,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Good
+10,M,37,Second intercostal space ,Healthy,Exacerbation or/and Uncontrolled,Calm,Phone,Good
+11,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Average
+12,M,14,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Adobe Audition,Good
+13,F,15,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+14,M,14,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Adobe Audition,Good
+15,M,6,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Average
+16,M,14,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Adobe Audition,Average
+17,M,37,Second intercostal space ,Healthy,Exacerbation or/and Uncontrolled,Calm,Phone,Good
+18,M,47,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Phone,Average
+19,F,40,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Average
+20,M,12,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Average
+21,F,12,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Average
+22,F,25,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Average
+23,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Good
+24,M,16,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Average
+25,M,18,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Web App,Good
+26,M,12,Oral cavity ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Average
+27,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Average
+28,M,16,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+29,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Good
+30,F,13,Trachea ,Bronchial asthma,Well-controlled,Forced,PC,Good
+31,F,40,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Good
+32,F,13,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Phone,Average
+33,M,4,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Average
+34,M,12,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Average
+35,M,47,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Phone,Average
+36,M,37,Second intercostal space ,Healthy,Exacerbation or/and Uncontrolled,Calm,Phone,Good
+37,M,47,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Phone,Average
+38,F,9,Trachea ,Bronchial asthma,Well-controlled,Forced,PC,Good
+39,F,10,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Phone,Good
+40,M,5,Trachea ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,PC without special software,Average
+41,M,47,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Phone,Average
+42,F,11,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Average
+43,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Good
+44,M,14,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Good
+45,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Good
+46,M,13,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+47,M,16,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+48,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Good
+49,M,47,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Phone,Average
+50,M,5,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,PC without special software,Average
+51,M,6,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Average
+52,M,9,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Phone,Average
+53,M,47,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Phone,Good
+54,F,13,Oral cavity ,Pneumonia,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+55,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Good
+56,F,40,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Good
+57,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Good
+58,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Average
+59,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Good
+60,M,5,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,PC,Average
+61,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Average
+62,M,10,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+63,M,10,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+64,M,37,Second intercostal space ,Healthy,Exacerbation or/and Uncontrolled,Calm,Phone,Good
+65,M,12,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+66,M,47,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Phone,Average
+67,M,10,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+68,M,12,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+69,M,38,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Average
+70,M,6,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Good
+71,M,13,Oral cavity ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,PC without special software,Average
+72,M,31,Chest from behind,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Average
+73,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Average
+74,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Average
+75,F,11,Oral cavity ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+76,M,47,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Phone,Good
+77,M,13,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Average
+78,M,4,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Good
+79,M,47,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Phone,Average
+80,M,38,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Good
+81,F,12,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+82,M,14,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+83,M,14,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Average
+84,M,37,Second intercostal space ,Healthy,Exacerbation or/and Uncontrolled,Calm,Phone,Good
+85,F,25,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Good
+86,M,14,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Average
+87,M,31,Chest from behind,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Good
+88,M,14,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Average
+89,M,2,Chest from behind,Chronic Obstructive Pulmonary Disease,Exacerbation or/and Uncontrolled,Forced,PC,Average
+90,M,14,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Average
+91,M,38,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Good
+92,M,10,Chest from behind,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Average
+93,M,6,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Good
+94,M,10,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+95,M,10,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+96,F,12,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Average
+97,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Average
+98,M,31,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Good
+99,F,12,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+100,M,14,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Average
+101,M,14,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+102,F,12,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Average
+103,M,31,Chest from behind,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Good
+104,M,38,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Good
+105,M,38,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Good
+106,M,38,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Good
+107,M,14,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Average
+108,M,0,Chest from behind,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Good
+109,M,31,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Good
+110,M,14,Chest from behind,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+111,M,37,Second intercostal space ,Healthy,Exacerbation or/and Uncontrolled,Calm,Phone,Good
+112,M,47,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Phone,Average
+113,M,37,Second intercostal space ,Healthy,Exacerbation or/and Uncontrolled,Calm,Phone,Good
+114,M,14,Chest from behind,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Average
+115,M,10,Chest from behind,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Average
+116,M,37,Second intercostal space ,Healthy,Exacerbation or/and Uncontrolled,Calm,Phone,Average
+117,M,37,Second intercostal space ,Healthy,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+118,M,6,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Average
+119,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Good
+120,M,38,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Good
+121,F,12,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Average
+122,M,13,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+123,M,10,Oral cavity ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Average
+124,M,14,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Average
+125,M,47,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Phone,Average
+126,M,14,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+127,M,14,Chest from behind,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+128,M,14,Oral cavity ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Average
+129,M,6,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Good
+130,M,14,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+131,M,47,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Phone,Average
+132,M,6,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Good
+133,M,14,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+134,M,12,Chest from behind,Relapsing Obstructive Bronchitis,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+135,M,31,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Good
+136,M,14,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+137,M,38,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Average
+138,F,13,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,PC without special software,Average
+139,F,14,Chest from behind,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+140,M,14,Oral cavity ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Average
+141,M,38,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Good
+142,F,12,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Average
+143,M,37,Second intercostal space ,Healthy,Exacerbation or/and Uncontrolled,Calm,Phone,Good
+144,M,5,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,PC without special software,Average
+145,M,47,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Phone,Average
+146,M,37,Second intercostal space ,Healthy,Exacerbation or/and Uncontrolled,Calm,Phone,Average
+147,F,15,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Average
+148,F,15,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Average
+149,M,6,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Average
+150,M,6,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Good
+151,M,14,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Good
+152,M,16,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Average
+153,F,12,Second intercostal space ,Relapsing Obstructive Bronchitis,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+154,M,20,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Average
+155,M,37,Second intercostal space ,Healthy,Exacerbation or/and Uncontrolled,Calm,Phone,Average
+156,M,16,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+157,M,31,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Average
+158,M,7,Trachea ,Bronchial asthma,Well-controlled,Calm,PC,Good
+159,M,10,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Average
+160,M,3,Chest from behind,Relapsing Obstructive Bronchitis,Partially controlled,Calm,PC without special software,Good
+161,M,14,Chest from behind,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Average
+162,M,16,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Average
+163,M,14,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Average
+164,M,13,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Good
+165,F,13,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Phone,Average
+166,F,6,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Average
+167,M,16,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Average
+168,F,6,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Average
+169,F,38,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Good
+170,F,25,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Average
+171,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Good
+172,M,0,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+173,M,39,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Good
+174,M,16,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+175,M,14,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Average
+176,M,16,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Average
+177,F,24,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Good
+178,M,31,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Good
+179,M,14,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Average
+180,M,0,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+181,M,47,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Phone,Good
+182,M,0,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+183,F,14,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Good
+184,M,16,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Average
+185,F,12,Second intercostal space ,Relapsing Obstructive Bronchitis,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+186,M,0,Oral cavity ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Average
+187,M,11,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Average
+188,M,31,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Average
+189,M,11,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+190,F,25,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Good
+191,M,37,Second intercostal space ,Healthy,Exacerbation or/and Uncontrolled,Calm,Phone,Good
+192,F,15,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Average
+193,M,6,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Average
+194,M,16,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Average
+195,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Average
+196,M,47,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Phone,Average
+197,M,15,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Good
+198,M,6,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Average
+199,F,38,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Good
+200,M,6,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Average
+201,M,11,Chest from behind,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Average
+202,M,16,Chest from behind,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Average
+203,M,37,Second intercostal space ,Healthy,Exacerbation or/and Uncontrolled,Calm,Phone,Good
+204,M,31,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Good
+205,M,4,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Average
+206,M,4,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Average
+207,M,9,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Average
+208,M,11,Chest from behind,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Average
+209,M,9,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+210,M,16,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+211,M,16,Chest from behind,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Average
+212,M,0,Oral cavity ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Good
+213,M,9,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+214,F,8,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+215,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Good
+216,M,6,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Average
+217,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Average
+218,M,11,Oral cavity ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+219,M,14,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Average
+220,F,10,Oral cavity ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Average
+221,F,7,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Web App,Good
+222,F,15,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Average
+223,M,12,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Average
+224,M,31,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Good
+225,M,16,Oral cavity ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+226,M,6,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Average
+227,M,11,Oral cavity ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Average
+228,M,0,Oral cavity ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Good
+229,F,14,Chest from behind,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Average
+230,M,9,Oral cavity ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Phone,Average
+231,M,47,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Phone,Good
+232,F,10,Oral cavity ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+233,F,10,Oral cavity ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Average
+234,M,9,Chest from behind,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Average
+235,M,9,Chest from behind,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Average
+236,M,10,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+237,F,12,Second intercostal space ,Relapsing Obstructive Bronchitis,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+238,M,31,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Average
+239,M,39,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Average
+240,M,10,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+241,M,14,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Average
+242,M,31,Oral cavity ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Good
+243,M,37,Second intercostal space ,Healthy,Exacerbation or/and Uncontrolled,Calm,Phone,Good
+244,M,37,Second intercostal space ,Healthy,Exacerbation or/and Uncontrolled,Calm,Phone,Good
+245,M,10,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+246,M,12,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+247,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Average
+248,M,9,Oral cavity ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Average
+249,M,10,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Average
+250,M,10,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Average
+251,M,47,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Phone,Good
+252,F,13,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Phone,Good
+253,M,4,Oral cavity ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Average
+254,M,31,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Good
+255,M,39,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Good
+256,M,13,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Average
+257,M,12,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+258,M,13,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+259,F,12,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Adobe Audition,Average
+260,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Average
+261,M,4,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Good
+262,F,13,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Phone,Average
+263,M,10,Oral cavity ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Average
+264,M,10,Oral cavity ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Average
+265,M,31,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Good
+266,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Average
+267,F,3,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,PC without special software,Good
+268,M,10,Oral cavity ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Average
+269,M,10,Oral cavity ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Average
+270,F,8,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+271,M,10,Oral cavity ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Average
+272,F,3,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,PC without special software,Average
+273,M,8,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Average
+274,F,5,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,PC without special software,Average
+275,F,13,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Phone,Good
+276,F,12,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Average
+277,F,12,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+278,M,3,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Forced,PC,Average
+279,F,12,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+280,M,31,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Good
+281,M,31,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Good
+282,M,47,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Phone,Average
+283,M,12,Oral cavity ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Average
+284,F,13,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Average
+285,F,13,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Average
+286,F,15,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Average
+287,M,39,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Average
+288,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Average
+289,F,12,Chest from behind,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+290,F,13,Chest from behind,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Average
+291,F,3,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,PC without special software,Average
+292,F,13,Chest from behind,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Average
+293,M,31,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Good
+294,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Good
+295,M,31,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Good
+296,M,39,Chest from behind,Healthy,Unspecified Disease Control,Calm,Phone,Average
+297,F,12,Chest from behind,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+298,M,7,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,PC,Good
+299,F,12,Chest from behind,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Average
+300,F,7,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Good
+301,F,14,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Average
+302,F,8,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Average
+303,M,13,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+304,F,14,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Good
+305,M,6,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Average
+306,F,8,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Average
+307,F,12,Oral cavity ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Average
+308,M,31,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Average
+309,F,11,Oral cavity ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Average
+310,M,31,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Good
+311,F,12,Oral cavity ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Average
+312,M,14,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,PC without special software,Good
+313,M,47,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Phone,Good
+314,F,15,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Average
+315,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Average
+316,M,31,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Good
+317,M,14,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+318,F,11,Oral cavity ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Average
+319,M,31,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Average
+320,F,13,Oral cavity ,Pneumonia,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Average
+321,F,11,Oral cavity ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Average
+322,M,47,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Phone,Average
+323,F,7,Chest from behind,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,PC without special software,Average
+324,M,14,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+325,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Average
+326,M,37,Second intercostal space ,Healthy,Exacerbation or/and Uncontrolled,Calm,Phone,Good
+327,F,11,Oral cavity ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Average
+328,M,11,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,PC without special software,Average
+329,M,8,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Average
+330,M,14,Chest from behind,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Average
+331,M,8,Second intercostal space ,Healthy,Unspecified Disease Control,Forced,PC without special software,Average
+332,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Average
+333,M,31,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Good
+334,M,12,Chest from behind,Healthy,Unspecified Disease Control,Calm,Adobe Audition,Average
+335,M,6,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Average
+336,F,8,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Average
+337,M,37,Second intercostal space ,Healthy,Exacerbation or/and Uncontrolled,Calm,Phone,Good
+338,M,31,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Good
+339,M,14,Chest from behind,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Average
+340,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Average
+341,F,13,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Phone,Average
+342,M,12,Second intercostal space ,Relapsing Obstructive Bronchitis,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Average
+343,M,12,Second intercostal space ,Relapsing Obstructive Bronchitis,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Average
+344,F,9,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Good
+345,M,9,Chest from behind,Bronchial asthma,Unspecified Disease Control,Calm,PC without special software,Good
+346,M,37,Second intercostal space ,Healthy,Exacerbation or/and Uncontrolled,Calm,Phone,Good
+347,M,10,Chest from behind,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Phone,Average
+348,F,10,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Average
+349,M,31,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Average
+350,F,5,Trachea ,Healthy,Unspecified Disease Control,Calm,PC without special software,Average
+351,F,10,Second intercostal space ,Pneumonia,Unspecified Disease Control,Forced,PC without special software,Average
+352,M,38,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Good
+353,M,5,Trachea ,Bronchial asthma,Well-controlled,Calm,PC,Good
+354,F,6,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+355,M,37,Second intercostal space ,Healthy,Exacerbation or/and Uncontrolled,Calm,Phone,Good
+356,M,38,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Good
+357,M,37,Second intercostal space ,Healthy,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Average
+358,M,12,Second intercostal space ,Relapsing Obstructive Bronchitis,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Average
+359,F,6,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+360,M,12,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Average
+361,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Average
+362,M,37,Second intercostal space ,Healthy,Exacerbation or/and Uncontrolled,Calm,Phone,Good
+363,M,8,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,PC without special software,Good
+364,M,9,Chest from behind,Bronchial asthma,Unspecified Disease Control,Calm,PC without special software,Average
+365,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Good
+366,M,47,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Phone,Average
+367,M,6,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Average
+368,M,38,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Average
+369,F,15,Oral cavity ,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Average
+370,M,47,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Phone,Average
+371,M,38,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Average
+372,M,5,Chest from behind,Bronchial asthma,Well-controlled,Calm,PC without special software,Average
+373,M,12,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,PC without special software,Average
+374,F,6,Chest from behind,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Average
+375,M,8,Chest from behind,Bronchial asthma,Unspecified Disease Control,Calm,PC without special software,Good
+376,F,6,Chest from behind,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+377,M,47,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Phone,Average
+378,M,47,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Phone,Average
+379,F,6,Oral cavity ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Average
+380,F,13,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Phone,Average
+381,M,2,Trachea ,Relapsing Obstructive Bronchitis,Partially controlled,Forced,PC without special software,Average
+382,M,22,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Web App,Average
+383,F,5,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Adobe Audition,Average
+384,M,10,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,PC without special software,Good
+385,F,8,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Average
+386,M,39,Chest from behind,Healthy,Unspecified Disease Control,Calm,Phone,Average
+387,M,9,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,PC without special software,Good
+388,F,8,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Average
+389,M,47,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Phone,Average
+390,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Average
+391,M,47,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Phone,Good
+392,M,6,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Average
+393,M,11,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Average
+394,M,39,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Average
+395,M,47,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Phone,Average
+396,M,8,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+397,F,13,Second intercostal space ,Pneumonia,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Average
+398,M,8,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+399,M,47,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Phone,Good
+400,M,8,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+401,F,14,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Good
+402,M,8,Chest from behind,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Average
+403,M,15,Trachea ,Bronchial asthma,Exacerbation or/and Uncontrolled,Forced,PC without special software,Average
+404,F,12,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Average
+405,M,14,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Good
+406,M,9,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Phone,Good
+407,M,11,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Average
+408,M,4,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Good
+409,F,14,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Good
+410,M,14,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Average
+411,M,8,Second intercostal space ,Blind,Unspecified Disease Control,Calm,Phone,Average
+412,M,8,Second intercostal space ,Blind,Unspecified Disease Control,Calm,Phone,Good
+413,M,8,Second intercostal space ,Blind,Unspecified Disease Control,Calm,Phone,Average
+414,M,10,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Phone,Average
+415,M,37,Second intercostal space ,Healthy,Exacerbation or/and Uncontrolled,Calm,Phone,Good
+416,M,11,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,PC without special software,Good
+417,M,11,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Good
+418,M,47,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Phone,Average
+419,F,13,Second intercostal space ,Pneumonia,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+420,M,4,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Good
+421,M,14,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Good
+422,M,5,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Average
+423,M,10,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Phone,Good
+424,F,15,Chest from behind,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Average
+425,F,7,Chest from behind,Healthy,Unspecified Disease Control,Calm,Phone,Good
+426,M,5,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Average
+427,F,14,Trachea ,Bronchial asthma,Exacerbation or/and Uncontrolled,Forced,PC,Average
+428,M,5,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Good
+429,F,9,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Adobe Audition,Good
+430,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Average
+431,M,47,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Phone,Average
+432,F,9,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Adobe Audition,Good
+433,F,9,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,PC without special software,Average
+434,F,25,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Average
+435,M,13,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+436,F,25,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Average
+437,F,14,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Average
+438,F,13,Trachea ,Bronchial asthma,Well-controlled,Calm,PC without special software,Average
+439,M,13,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Average
+440,M,10,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Phone,Average
+441,M,13,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Average
+442,F,7,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Adobe Audition,Good
+443,M,3,Chest from behind,Relapsing Obstructive Bronchitis,Partially controlled,Calm,PC without special software,Average
+444,M,3,Second intercostal space ,Relapsing Obstructive Bronchitis,Partially controlled,Forced,PC without special software,Average
+445,F,13,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Phone,Good
+446,F,5,Chest from behind,Bronchial asthma,Well-controlled,Calm,PC without special software,Average
+447,F,12,Chest from behind,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,PC without special software,Average
+448,M,13,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Average
+449,M,13,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Average
+450,F,12,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,PC without special software,Good
+451,M,8,Oral cavity ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Average
+452,F,11,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,PC without special software,Average
+453,F,15,Oral cavity ,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Average
+454,F,4,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Average
+455,F,0,Oral cavity ,Bronchopulmonary dysplasia,Exacerbation or/and Uncontrolled,Calm,PC,Average
+456,M,9,Chest from behind,Bronchial asthma,Unspecified Disease Control,Calm,PC without special software,Average
+457,F,9,Oral cavity ,Bronchial asthma,Well-controlled,Calm,PC without special software,Average
+458,M,13,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Average
+459,M,13,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Average
+460,M,4,Oral cavity ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Average
+461,M,47,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Phone,Average
+462,M,4,Chest from behind,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,PC,Average
+463,M,8,Second intercostal space ,Blind,Unspecified Disease Control,Calm,Phone,Good
+464,M,8,Second intercostal space ,Blind,Unspecified Disease Control,Calm,Phone,Average
+465,M,8,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Average
+466,F,6,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Average
+467,F,5,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,PC without special software,Average
+468,F,15,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+469,M,39,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Average
+470,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Average
+471,M,5,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Good
+472,M,8,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Average
+473,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Average
+474,F,24,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Web App,Average
+475,M,8,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Average
+476,M,15,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Average
+477,F,25,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Average
+478,F,15,Chest from behind,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Average
+479,F,15,Chest from behind,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+480,M,37,Second intercostal space ,Healthy,Exacerbation or/and Uncontrolled,Calm,Phone,Good
+481,F,7,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Good
+482,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Average
+483,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Average
+484,M,11,Second intercostal space ,Relapsing Obstructive Bronchitis,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Average
+485,F,24,Chest from behind,Healthy,Unspecified Disease Control,Calm,Web App,Good
+486,M,10,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+487,M,8,Second intercostal space ,Blind,Unspecified Disease Control,Calm,Phone,Average
+488,M,11,Second intercostal space ,Relapsing Obstructive Bronchitis,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+489,M,8,Second intercostal space ,Blind,Unspecified Disease Control,Calm,Phone,Good
+490,M,37,Second intercostal space ,Healthy,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+491,F,14,Chest from behind,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Average
+492,M,10,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Average
+493,M,13,Chest from behind,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,PC,Average
+494,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Good
+495,M,3,Chest from behind,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,PC without special software,Average
+496,M,11,Chest from behind,Relapsing Obstructive Bronchitis,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Average
+497,M,0,Chest from behind,Healthy,Unspecified Disease Control,Calm,Web App,Average
+498,M,0,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Web App,Good
+499,M,0,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Average
+500,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Average
+501,F,-184,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+502,M,0,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Web App,Good
+503,F,-184,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+504,M,8,Second intercostal space ,Blind,Unspecified Disease Control,Calm,Phone,Average
+505,M,11,Oral cavity ,Relapsing Obstructive Bronchitis,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Average
+506,M,8,Second intercostal space ,Blind,Unspecified Disease Control,Calm,Phone,Good
+507,M,10,Chest from behind,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Average
+508,M,5,Trachea ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,PC without special software,Average
+509,M,9,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Phone,Average
+510,M,8,Second intercostal space ,Blind,Unspecified Disease Control,Calm,Phone,Good
+511,M,11,Oral cavity ,Relapsing Obstructive Bronchitis,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Average
+512,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Average
+513,M,0,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Web App,Good
+514,M,12,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+515,M,8,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Phone,Average
+516,M,37,Second intercostal space ,Healthy,Exacerbation or/and Uncontrolled,Calm,Phone,Good
+517,M,14,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Average
+518,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Average
+519,M,5,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,PC without special software,Average
+520,M,37,Second intercostal space ,Healthy,Exacerbation or/and Uncontrolled,Calm,Phone,Average
+521,M,8,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Phone,Average
+522,F,38,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Average
+523,M,14,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Average
+524,M,6,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Average
+525,M,15,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Average
+526,F,13,Second intercostal space ,Pneumonia,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+527,M,6,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Good
+528,M,14,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Good
+529,M,15,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Average
+530,F,13,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Average
+531,F,8,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Good
+532,F,13,Second intercostal space ,Pneumonia,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+533,F,13,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Average
+534,F,0,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Good
+535,F,8,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+536,F,18,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Good
+537,M,14,Chest from behind,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Average
+538,F,2,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Web App,Good
+539,F,14,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Good
+540,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Average
+541,F,12,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Adobe Audition,Good
+542,F,8,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+543,F,13,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Phone,Average
+544,M,5,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,PC without special software,Average
+545,F,18,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Good
+546,M,37,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Web App,Good
+547,M,4,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Average
+548,M,6,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Good
+549,F,18,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Average
+550,M,14,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Average
+551,F,8,Chest from behind,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Average
+552,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Average
+553,F,38,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Average
+554,F,17,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Average
+555,F,17,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Web App,Average
+556,M,6,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Good
+557,F,2,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Web App,Good
+558,F,13,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Phone,Average
+559,M,13,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Good
+560,F,17,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Web App,Average
+561,F,13,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Phone,Average
+562,F,13,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Phone,Good
+563,M,12,Second intercostal space ,Relapsing Obstructive Bronchitis,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Average
+564,F,8,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Average
+565,M,12,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Average
+566,M,6,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Good
+567,F,8,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Average
+568,F,8,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Average
+569,F,10,Chest from behind,Pneumonia,Unspecified Disease Control,Forced,PC without special software,Average
+570,M,6,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Average
+571,F,17,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Average
+572,F,13,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Phone,Good
+573,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Average
+574,F,17,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+575,F,17,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Average
+576,F,8,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Average
+577,F,13,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Phone,Average
+578,F,14,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Good
+579,M,14,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Average
+580,F,13,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Phone,Good
+581,F,13,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Phone,Average
+582,M,14,Oral cavity ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Average
+583,M,5,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,PC without special software,Average
+584,F,15,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Average
+585,M,12,Second intercostal space ,Relapsing Obstructive Bronchitis,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Average
+586,F,10,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Average
+587,F,10,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+588,M,17,Oral cavity ,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Average
+589,M,13,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Average
+590,F,10,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+591,F,13,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Phone,Good
+592,M,7,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+593,F,18,Oral cavity ,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Average
+594,M,14,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,PC without special software,Good
+595,F,8,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+596,F,9,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Good
+597,M,7,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Average
+598,M,12,Oral cavity ,Relapsing Obstructive Bronchitis,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Average
+599,M,12,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Average
+600,F,18,Oral cavity ,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Average
+601,M,7,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,PC without special software,Average
+602,M,7,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+603,F,8,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+604,M,17,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Good
+605,F,18,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Average
+606,M,12,Oral cavity ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Average
+607,M,10,Second intercostal space ,Relapsing Obstructive Bronchitis,Partially controlled,Calm,Web App,Average
+608,M,8,Second intercostal space ,Blind,Unspecified Disease Control,Calm,Phone,Good
+609,M,17,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Good
+610,F,15,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Good
+611,F,13,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Good
+612,F,13,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Average
+613,M,4,Chest from behind,Healthy,Unspecified Disease Control,Calm,Web App,Average
+614,F,15,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Average
+615,M,10,Second intercostal space ,Relapsing Obstructive Bronchitis,Partially controlled,Calm,Web App,Average
+616,F,15,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Good
+617,F,14,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Average
+618,M,12,Oral cavity ,Relapsing Obstructive Bronchitis,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Average
+619,F,14,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Average
+620,F,18,Second intercostal space ,Pneumonia,Unspecified Disease Control,Calm,Web App,Average
+621,M,37,Second intercostal space ,Healthy,Exacerbation or/and Uncontrolled,Calm,Phone,Average
+622,F,12,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Adobe Audition,Good
+623,F,10,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Phone,Average
+624,F,18,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Good
+625,M,36,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Web App,Good
+626,F,0,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Average
+627,M,8,Second intercostal space ,Blind,Unspecified Disease Control,Calm,Phone,Good
+628,M,12,Oral cavity ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Average
+629,M,38,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Good
+630,M,12,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+631,F,11,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Average
+632,M,0,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+633,F,15,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Average
+634,F,15,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Average
+635,M,0,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+636,M,37,Second intercostal space ,Healthy,Exacerbation or/and Uncontrolled,Calm,Phone,Good
+637,F,8,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Average
+638,F,8,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Average
+639,F,11,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+640,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Average
+641,F,13,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Phone,Good
+642,F,14,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Average
+643,M,0,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+644,F,2,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Web App,Average
+645,M,13,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Average
+646,F,11,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,PC,Average
+647,M,5,Oral cavity ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,PC without special software,Good
+648,M,4,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Good
+649,F,13,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Phone,Average
+650,F,10,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Phone,Average
+651,M,5,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,PC without special software,Average
+652,F,13,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Phone,Good
+653,F,14,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Good
+654,F,8,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Average
+655,M,5,Chest from behind,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,PC without special software,Good
+656,M,6,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Forced,PC,Average
+657,M,14,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Average
+658,F,6,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Average
+659,F,11,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Average
+660,F,6,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Good
+661,F,11,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+662,F,13,Chest from behind,Pneumonia,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Average
+663,F,10,Chest from behind,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+664,M,12,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Average
+665,F,8,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Average
+666,F,15,Oral cavity ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Average
+667,M,9,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Average
+668,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Average
+669,M,37,Second intercostal space ,Healthy,Exacerbation or/and Uncontrolled,Calm,Phone,Good
+670,M,12,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Average
+671,M,12,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+672,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Average
+673,F,13,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Phone,Average
+674,F,6,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Average
+675,M,37,Second intercostal space ,Healthy,Exacerbation or/and Uncontrolled,Calm,Phone,Good
+676,M,4,Chest from behind,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Average
+677,F,7,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Adobe Audition,Average
+678,M,9,Oral cavity ,Cystic fibrosis,Well-controlled,Calm,PC,Average
+679,M,12,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Average
+680,M,10,Chest from behind,Blind,Well-controlled,Calm,PC,Average
+681,M,12,Chest from behind,Healthy,Unspecified Disease Control,Calm,Adobe Audition,Good
+682,M,4,Chest from behind,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Average
+683,M,4,Chest from behind,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Average
+684,M,10,Oral cavity ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Average
+685,M,10,Oral cavity ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Average
+686,M,13,Oral cavity ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,PC without special software,Average
+687,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Average
+688,M,12,Chest from behind,Healthy,Unspecified Disease Control,Calm,Adobe Audition,Good
+689,F,5,Oral cavity ,Bronchial asthma,Well-controlled,Calm,PC without special software,Average
+690,M,13,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,PC without special software,Good
+691,M,15,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,PC without special software,Average
+692,F,11,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Average
+693,M,4,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Good
+694,M,4,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Average
+695,F,11,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Average
+696,M,12,Oral cavity ,Relapsing Obstructive Bronchitis,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Average
+697,M,12,Oral cavity ,Relapsing Obstructive Bronchitis,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Average
+698,F,11,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Average
+699,F,13,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Phone,Good
+700,F,13,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Phone,Good
+701,F,11,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Average
+702,M,0,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Web App,Good
+703,M,4,Chest from behind,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Good
+704,F,10,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+705,F,38,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Average
+706,M,16,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+707,F,13,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Phone,Good
+708,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Good
+709,F,10,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+710,F,13,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Phone,Average
+711,F,13,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Phone,Average
+712,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Good
+713,M,15,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Average
+714,M,7,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,PC without special software,Average
+715,F,10,Oral cavity ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Average
+716,M,16,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Average
+717,F,38,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Good
+718,F,5,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,PC without special software,Average
+719,F,25,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Average
+720,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Average
+721,M,5,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Average
+722,M,14,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Average
+723,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Average
+724,F,6,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Good
+725,M,5,Chest from behind,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Average
+726,M,5,Chest from behind,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Average
+727,M,9,Oral cavity ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Phone,Good
+728,F,11,Oral cavity ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Average
+729,F,17,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Average
+730,M,5,Chest from behind,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Average
+731,M,17,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Average
+732,F,18,Chest from behind,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Good
+733,F,2,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Web App,Average
+734,M,6,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Average
+735,F,18,Chest from behind,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Average
+736,M,5,Chest from behind,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,PC without special software,Average
+737,M,12,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Average
+738,M,10,Oral cavity ,Relapsing Obstructive Bronchitis,Partially controlled,Calm,Web App,Average
+739,F,18,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Good
+740,M,14,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Average
+741,M,14,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+742,F,6,Second intercostal space ,Relapsing Obstructive Bronchitis,Exacerbation or/and Uncontrolled,Calm,PC without special software,Average
+743,F,8,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Average
+744,M,9,Oral cavity ,Bronchial asthma,Unspecified Disease Control,Calm,PC without special software,Average
+745,M,12,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Average
+746,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Average
+747,F,38,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Average
+748,M,12,Oral cavity ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Average
+749,F,6,Trachea ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,PC without special software,Average
+750,F,10,Chest from behind,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Phone,Average
+751,F,8,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Average
+752,F,8,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Average
+753,F,11,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+754,M,5,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Average
+755,F,6,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Good
+756,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Average
+757,M,12,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+758,M,18,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Average
+759,M,18,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Average
+760,M,18,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Average
+761,M,18,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+762,M,18,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Average
+763,F,15,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Good
+764,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Good
+765,M,37,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Web App,Good
+766,M,8,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Average
+767,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Average
+768,M,8,Second intercostal space ,Blind,Unspecified Disease Control,Calm,Phone,Average
+769,M,8,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Average
+770,M,4,Second intercostal space ,Relapsing Obstructive Bronchitis,Unspecified Disease Control,Calm,Phone,Average
+771,M,8,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Average
+772,M,8,Second intercostal space ,Blind,Unspecified Disease Control,Calm,Phone,Average
+773,F,12,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Average
+774,F,18,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Average
+775,F,15,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Average
+776,F,5,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,PC without special software,Good
+777,F,14,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Good
+778,F,13,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Phone,Average
+779,F,15,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Average
+780,F,9,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Good
+781,M,10,Second intercostal space ,Relapsing Obstructive Bronchitis,Partially controlled,Calm,Web App,Average
+782,M,5,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,PC without special software,Average
+783,F,15,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Good
+784,F,12,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Good
+785,F,9,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Average
+786,M,6,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Average
+787,M,14,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Average
+788,M,10,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Phone,Good
+789,F,38,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Good
+790,F,6,Second intercostal space ,Healthy,Unspecified Disease Control,Calm,Phone,Average
+791,M,6,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Average
+792,F,15,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Average
+793,M,37,Second intercostal space ,Healthy,Exacerbation or/and Uncontrolled,Calm,Phone,Average
+794,F,8,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Web App,Good
+795,F,5,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,PC without special software,Average
+796,M,10,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Phone,Good
+797,M,6,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Phone,Average
+798,M,10,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+799,M,10,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+800,M,18,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+801,M,10,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+802,M,10,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+803,M,18,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+804,M,18,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+805,M,16,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+806,M,16,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+807,M,17,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+808,M,17,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+809,M,17,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+810,M,17,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+811,M,16,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+812,M,16,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+813,M,16,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+814,M,16,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+815,M,16,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+816,M,16,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+817,M,10,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+818,M,10,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+819,M,14,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+820,M,14,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+821,M,14,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+822,M,14,Chest from behind,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+823,M,14,Chest from behind,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+824,M,14,Chest from behind,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+825,M,10,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+826,M,14,Oral cavity ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+827,M,14,Oral cavity ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+828,M,14,Oral cavity ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+829,M,17,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+830,M,17,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+831,M,17,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+832,M,10,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+833,M,10,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+834,M,10,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+835,M,17,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+836,M,17,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+837,M,11,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+838,M,11,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+839,M,11,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+840,M,16,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+841,M,16,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+842,M,16,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+843,M,17,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+844,M,17,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+845,M,10,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+846,M,10,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+847,M,10,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+848,M,17,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+849,M,17,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+850,M,17,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+851,M,11,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+852,M,11,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+853,M,11,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+854,M,16,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+855,M,16,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+856,M,16,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+857,M,17,Oral cavity ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+858,M,17,Oral cavity ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+859,M,17,Oral cavity ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+860,M,10,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+861,M,10,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+862,M,16,Oral cavity ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+863,M,16,Oral cavity ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+864,M,16,Oral cavity ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+865,M,17,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+866,M,17,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+867,M,17,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+868,M,10,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+869,M,17,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+870,M,17,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+871,M,17,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+872,M,11,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+873,M,11,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+874,M,11,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+875,M,17,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+876,M,17,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+877,M,17,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+878,M,17,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+879,M,17,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+880,M,17,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+881,M,10,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+882,M,10,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+883,M,10,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+884,F,9,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+885,F,9,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+886,F,9,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+887,F,8,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+888,F,8,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+889,F,8,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+890,M,16,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+891,M,16,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+892,M,16,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+893,M,17,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+894,M,17,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+895,M,17,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+896,M,17,Oral cavity ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+897,M,17,Oral cavity ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+898,M,17,Oral cavity ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+899,M,17,Oral cavity ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+900,M,17,Oral cavity ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+901,M,17,Oral cavity ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+902,M,10,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+903,M,7,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+904,M,7,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+905,F,14,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+906,F,14,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+907,F,14,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+908,M,10,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+909,M,10,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+910,F,9,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+911,F,9,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+912,F,8,Chest from behind,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+913,M,7,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+914,M,7,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+915,M,7,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+916,F,14,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+917,F,14,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+918,F,14,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+919,M,7,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+920,M,7,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+921,M,7,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+922,F,9,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+923,F,9,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+924,F,8,Chest from behind,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+925,F,8,Chest from behind,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+926,M,16,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+927,M,16,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+928,M,16,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+929,M,7,Oral cavity ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+930,M,7,Oral cavity ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+931,F,14,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+932,F,14,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+933,M,7,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+934,M,7,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+935,M,7,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+936,F,15,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+937,F,15,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+938,F,14,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+939,M,7,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+940,M,7,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+941,M,7,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+942,F,14,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+943,F,14,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+944,F,8,Oral cavity ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+945,F,8,Oral cavity ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+946,M,7,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+947,M,7,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+948,M,7,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+949,F,15,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+950,F,15,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+951,F,15,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+952,F,10,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+953,F,10,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+954,M,7,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+955,M,7,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+956,M,7,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+957,F,14,Chest from behind,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+958,F,14,Chest from behind,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+959,F,14,Chest from behind,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+960,F,8,Oral cavity ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+961,M,16,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+962,M,16,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+963,M,16,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+964,F,15,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+965,F,15,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+966,M,7,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+967,M,7,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+968,M,7,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+969,F,15,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+970,F,10,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+971,F,10,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+972,F,10,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+973,M,10,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+974,M,10,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+975,M,10,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+976,F,14,Oral cavity ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+977,F,14,Oral cavity ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+978,F,14,Oral cavity ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+979,M,9,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+980,M,9,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+981,M,9,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+982,M,9,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+983,M,9,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+984,M,9,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+985,M,16,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+986,M,16,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+987,M,16,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+988,M,15,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+989,M,15,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+990,M,15,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+991,F,10,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+992,F,10,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+993,M,16,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+994,M,16,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+995,M,16,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+996,M,15,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+997,M,15,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+998,M,15,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+999,F,10,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1000,M,10,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1001,M,10,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1002,M,10,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1003,M,17,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1004,M,17,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1005,M,17,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1006,M,9,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1007,M,9,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1008,M,9,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1009,M,9,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1010,M,9,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1011,M,9,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1012,M,16,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1013,M,16,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1014,M,16,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1015,M,15,Oral cavity ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1016,M,15,Oral cavity ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1017,M,15,Oral cavity ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1018,F,17,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1019,F,17,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1020,F,17,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1021,M,10,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1022,M,10,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1023,M,10,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1024,M,17,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1025,M,17,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1026,M,17,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1027,M,9,Oral cavity ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1028,M,9,Oral cavity ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1029,M,9,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1030,M,9,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1031,M,9,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1032,M,15,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1033,M,15,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1034,F,17,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1035,F,17,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1036,F,17,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1037,M,14,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1038,M,14,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1039,M,14,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1040,M,17,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1041,M,17,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1042,M,17,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1043,M,9,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1044,F,8,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1045,F,8,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1046,F,8,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1047,M,15,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1048,M,15,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1049,M,15,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1050,F,17,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1051,F,17,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1052,F,17,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1053,M,14,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1054,M,14,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1055,M,14,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1056,M,9,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1057,M,9,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1058,M,9,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1059,M,9,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1060,M,9,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1061,M,9,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1062,F,8,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1063,F,8,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1064,F,8,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1065,M,15,Oral cavity ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1066,M,15,Oral cavity ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1067,M,8,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+1068,M,8,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+1069,M,8,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+1070,M,14,Oral cavity ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1071,M,14,Oral cavity ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1072,M,14,Oral cavity ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1073,M,9,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1074,M,9,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1075,M,9,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1076,M,9,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1077,F,8,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1078,F,8,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1079,M,13,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1080,M,13,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1081,M,13,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1082,M,8,Chest from behind,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+1083,M,8,Chest from behind,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+1084,M,8,Chest from behind,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+1085,M,10,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1086,M,10,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1087,M,10,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1088,M,9,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1089,M,9,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1090,M,9,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1091,M,9,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1092,M,13,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1093,M,13,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1094,M,13,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1095,M,8,Oral cavity ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+1096,M,8,Oral cavity ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+1097,M,8,Oral cavity ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+1098,M,10,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1099,M,10,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1100,M,10,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1101,M,9,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1102,M,9,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1103,M,13,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1104,M,13,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1105,M,13,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1106,M,15,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1107,M,15,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1108,M,15,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1109,M,10,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1110,M,10,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1111,M,16,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1112,M,16,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1113,M,16,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1114,M,16,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1115,M,16,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1116,M,16,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1117,M,15,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1118,M,15,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1119,M,15,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1120,F,15,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1121,F,15,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1122,M,16,Oral cavity ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1123,M,16,Oral cavity ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1124,M,16,Oral cavity ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1125,M,15,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1126,M,15,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1127,M,9,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1128,M,14,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1129,M,14,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1130,M,14,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1131,M,11,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1132,M,11,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1133,M,11,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1134,M,15,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1135,M,15,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1136,F,15,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+1137,F,15,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+1138,F,15,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+1139,F,15,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1140,F,15,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1141,F,15,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1142,M,9,Chest from behind,Bronchial asthma,Partially controlled,Calm,Phone,Good
+1143,M,9,Chest from behind,Bronchial asthma,Partially controlled,Calm,Phone,Good
+1144,M,9,Chest from behind,Bronchial asthma,Partially controlled,Calm,Phone,Good
+1145,M,14,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1146,M,14,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1147,M,14,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1148,M,13,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1149,M,13,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1150,M,13,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1151,M,11,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1152,M,11,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1153,M,11,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1154,M,15,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1155,M,15,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1156,M,15,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1157,F,15,Chest from behind,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+1158,F,15,Chest from behind,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+1159,F,15,Chest from behind,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+1160,F,15,Oral cavity ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1161,F,15,Oral cavity ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1162,F,15,Oral cavity ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1163,M,9,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1164,M,9,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1165,M,9,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1166,M,14,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1167,M,14,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1168,M,14,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1169,M,13,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1170,M,13,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1171,M,13,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1172,M,11,Oral cavity ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1173,M,11,Oral cavity ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1174,M,11,Oral cavity ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1175,M,15,Oral cavity ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1176,M,15,Oral cavity ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1177,M,15,Oral cavity ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1178,F,15,Oral cavity ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+1179,F,15,Oral cavity ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+1180,F,15,Oral cavity ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+1181,M,13,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1182,M,13,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1183,M,16,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1184,M,16,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1185,M,16,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1186,F,8,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1187,M,13,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1188,M,13,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1189,M,13,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1190,M,13,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+1191,M,13,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+1192,M,13,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+1193,M,9,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1194,M,9,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1195,M,9,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1196,M,16,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1197,M,13,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+1198,M,13,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+1199,M,13,Second intercostal space ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+1200,M,13,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1201,M,13,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1202,M,13,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1203,M,16,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1204,M,16,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1205,M,16,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1206,M,17,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1207,M,17,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1208,M,13,Chest from behind,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+1209,M,13,Chest from behind,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+1210,M,13,Chest from behind,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+1211,M,9,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1212,M,9,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1213,M,9,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1214,M,16,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1215,M,16,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1216,M,16,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1217,M,13,Chest from behind,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+1218,M,13,Chest from behind,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+1219,M,13,Chest from behind,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+1220,M,13,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1221,M,13,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1222,M,16,Oral cavity ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1223,M,16,Oral cavity ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1224,M,16,Oral cavity ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1225,M,17,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1226,M,17,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1227,M,17,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1228,M,13,Oral cavity ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+1229,M,13,Oral cavity ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+1230,M,13,Oral cavity ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+1231,M,9,Oral cavity ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1232,M,9,Oral cavity ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1233,M,9,Oral cavity ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1234,M,16,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1235,M,16,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1236,M,16,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1237,M,13,Oral cavity ,Bronchial asthma,Unspecified Disease Control,Calm,Adobe Audition,Good
+1238,M,8,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1239,M,8,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1240,F,6,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1241,F,6,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1242,F,6,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1243,M,17,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1244,M,17,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1245,M,17,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1246,M,14,Oral cavity ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1247,F,17,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1248,M,11,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+1249,M,11,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+1250,M,16,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+1251,M,16,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+1252,M,16,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+1253,M,15,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1254,M,15,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1255,M,15,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1256,M,8,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1257,M,8,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1258,F,6,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1259,F,6,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1260,F,6,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1261,F,17,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1262,F,17,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1263,F,17,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1264,M,11,Chest from behind,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+1265,M,11,Chest from behind,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+1266,M,11,Chest from behind,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+1267,M,16,Chest from behind,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+1268,M,16,Chest from behind,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+1269,M,16,Chest from behind,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+1270,M,15,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1271,M,15,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1272,M,15,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1273,M,8,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1274,M,8,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1275,M,8,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1276,F,6,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1277,F,6,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1278,F,6,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1279,F,17,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1280,F,17,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1281,M,11,Oral cavity ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+1282,M,11,Oral cavity ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+1283,M,11,Oral cavity ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+1284,F,17,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1285,M,16,Oral cavity ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+1286,M,16,Oral cavity ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+1287,M,16,Oral cavity ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+1288,M,15,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1289,M,15,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1290,M,15,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1291,F,16,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1292,F,16,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1293,F,16,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1294,M,10,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1295,M,10,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1296,M,10,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1297,M,12,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1298,M,12,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1299,M,12,Second intercostal space ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1300,M,12,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+1301,M,12,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+1302,M,12,Second intercostal space ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+1303,M,10,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1304,M,10,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1305,M,10,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1306,F,16,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1307,F,16,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1308,F,16,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1309,M,10,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1310,M,10,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1311,M,10,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1312,M,12,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1313,M,12,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1314,M,12,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1315,M,12,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1316,M,12,Chest from behind,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+1317,M,12,Chest from behind,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+1318,M,10,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1319,M,10,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1320,M,10,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1321,F,16,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1322,F,16,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1323,F,16,Chest from behind,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1324,M,10,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1325,M,10,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1326,M,10,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1327,M,12,Oral cavity ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1328,M,12,Oral cavity ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1329,M,12,Oral cavity ,Bronchial asthma,Well-controlled,Calm,Adobe Audition,Good
+1330,M,12,Oral cavity ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+1331,M,12,Oral cavity ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+1332,M,12,Oral cavity ,Bronchial asthma,Exacerbation or/and Uncontrolled,Calm,Adobe Audition,Good
+1333,M,10,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1334,M,10,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1335,M,10,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1336,F,14,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1337,F,14,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1338,F,14,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1339,M,10,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1340,M,10,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1341,M,10,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1342,M,18,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1343,M,18,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1344,M,18,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1345,M,10,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1346,M,10,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1347,M,10,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1348,M,17,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1349,M,17,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1350,M,17,Second intercostal space ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1351,F,14,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1352,F,14,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1353,F,14,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1354,M,10,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1355,M,10,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1356,M,18,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1357,M,18,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1358,M,18,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1359,M,10,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1360,M,10,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1361,M,10,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1362,M,17,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1363,M,17,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1364,M,17,Chest from behind,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1365,F,14,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1366,F,14,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1367,F,14,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1368,M,10,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1369,M,10,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
+1370,M,10,Oral cavity ,Bronchial asthma,Partially controlled,Calm,Adobe Audition,Good
