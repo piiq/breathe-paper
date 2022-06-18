@@ -4,7 +4,6 @@ channels:
 dependencies:
   - python=3.9
   - pip
-  - poetry
   - matplotlib
   - Pillow
   - torch
@@ -14,7 +13,6 @@ dependencies:
   - progressbar
   - torchaudio
   - torchvision
-  - tensorboardX
   - tqdm
   - scikit
   - requests
