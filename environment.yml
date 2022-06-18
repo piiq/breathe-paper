@@ -2,7 +2,6 @@ name: breathe-paper
 channels:
   - conda-forge
 dependencies:
-  - python=3.9
   - pip
   - matplotlib
   - Pillow
