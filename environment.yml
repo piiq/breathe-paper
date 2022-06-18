@@ -1,7 +1,6 @@
 name: breathe-paper
 channels:
   - conda-forge
-  - defaults
 dependencies:
   - python=3.9
   - pip
