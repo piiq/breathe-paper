@@ -1,3 +1,4 @@
+name: breathe-paper
 channels:
   - conda-forge
   - defaults
