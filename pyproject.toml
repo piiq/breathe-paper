@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "breathe"
+version = "0.1.0"
+description = "BGU Respiratory Pathologies Discovery Toolkit."
+authors = ["Theodore Aptekarev <aptekath@bgu.ac.il>"]
+
+[tool.poetry.dependencies]
+python = "~3.9"
+matplotlib = "^3.5.1"
+Pillow = "^9.0.1"
+torch = "^1.10.2"
+SoundFile = "^0.10.3"
+pandas = "^1.4.1"
+torchaudio = "^0.10.2"
+torchvision = "^0.11.3"
+librosa = "^0.9.1"
+numpy = "^1.22.4"
+jupyterlab = "^3.4.3"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
