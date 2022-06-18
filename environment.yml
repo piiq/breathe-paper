@@ -5,3 +5,18 @@ dependencies:
   - python=3.9
   - pip
   - poetry
+  - matplotlib
+  - Pillow
+  - torch
+  - SoundFile
+  - pandas
+  - learn
+  - progressbar
+  - torchaudio
+  - torchvision
+  - tensorboardX
+  - tqdm
+  - scikit
+  - requests
+  - librosa
+  - numpy
